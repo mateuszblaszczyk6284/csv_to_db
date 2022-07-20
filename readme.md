@@ -1,2 +1,2 @@
-# GUI copy all .csv files to postgres database
+# GUI copy all .csv files from directory to postgres database
 Tests in progress
